@@ -7,7 +7,6 @@ import { Hero } from '../../model/hero';
 import { HEROES } from '../../model/mock-heroes';
 
 
-
 @Injectable({
   providedIn: 'root'
 })

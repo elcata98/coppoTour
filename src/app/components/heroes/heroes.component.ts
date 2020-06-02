@@ -5,6 +5,7 @@ import { MessageService } from '../../services/message/message.service';
 
 import { Hero } from '../../model/hero';
 
+
 @Component({
   selector: 'app-heroes',
   templateUrl: './heroes.component.html',
